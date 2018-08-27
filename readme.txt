@@ -1,9 +1,7 @@
-Precision, recall, f-measure
 
 This project aims to create a generic pipeline for automatically extracting keywords in a given document.
 
-
-1. There are 4 folders on this project. 
+There are 4 folders on this project. 
    figure - storing the result of generated figure.
    csv - storing the training dataset, testing dataset, and result of predicted keywords
    pickle - storing the processed result from certain result on this system
@@ -19,8 +17,8 @@ This project aims to create a generic pipeline for automatically extracting keyw
 
 2. This project implemented TopicRank as one of features, however there is several modification on it. 
    Therefore, the first step is to install pytopicrank from https://github.com/smirnov-am/pytopicrank. 
-   Then, replace the original 'topicrank.py' to 'topicrank.py' from this project. 
-   Thus, to obtain keywords from topicRank, please run 'generate_topic_rank.py'. 
+   Replace the original 'topicrank.py' to 'topicrank.py' from this project. 
+   To obtain keywords from topicRank, please run 'generate_topic_rank.py'. 
    This code will produce topic rank keywords and store it to pickle.
 
 3.  There are several jupyter notebooks on the system.
