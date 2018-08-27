@@ -1,0 +1,501 @@
+,document,keyphrase 1,keyphrase 2,keyphrase 3,keyphrase 4,keyphrase 5,keyphrase 6,keyphrase 7,keyphrase 8,keyphrase 9,keyphrase 10
+0,doc 1,reason,industri,observ,technolog,hype ad nauseam for year,quick turn-up time,wavelength servic,lukewarm recept,confus,wait
+1,doc 2,market,posit,cash in today,nuvox commun posit,nuvox,long run,fund,stay power,today,credit
+2,doc 3,telecom industri,director,observ,industri,optim,invest,compani,manag,network,seen infus of insid invest
+3,doc 4,uncertainti,feedback control,robust,simul,engin,stabil,linear,dynam,control,adapt robust state feedback control
+4,doc 5,slide mode control,simul result,discret,output,sensit,simul,control,design,slide mode,switch line
+5,doc 6,throughput,transport,autom,benefit,deliveri,continu,perform,simul,softwar,technolog
+6,doc 7,resolut,desir,effici,structur,mechan,technolog,measur,gener,control,design
+7,doc 8,tune,desir,approxim,function,perform,model,gener,tune of membership function,parametr class of conjunct,tune of parametr conjunct oper
+8,doc 9,transpar,viabil,identif,benchmark,neural network,avail,complex,addit,model,compon
+9,doc 10,aggreg,weight,learn,measur,function,gener,use of parametr function,known arbitrari gener f,weight mean,quasi-weight mean
+10,doc 11,price,uncertainti,indic,comput,knowledg,implement,model,gener,string of input symbol,gener of classic automata
+11,doc 12,fuzzi logic,uncertainti,simul experi,output,iter,simul,experi,comput,perform,design
+12,doc 13,dynam topolog,neural network,genet algorithm,polynomi,experiment result,organ,accuraci,structur,topolog,approxim
+13,doc 14,accuraci,reduct,identif,select,approxim,experi,model,function,implement,perform
+14,doc 15,radial basi function neural network,interpol,engin,neural network,perform,learn,approxim,function,chang,model
+15,doc 16,comput complex,data set,complex,optim,standard,effici,comput,implement,standard membership updat equat,extens principl
+16,doc 17,feedback control,output,minim,simul,interact,compon,control,model,chang,singl loop fuzzi control
+17,doc 18,pid control,genet algorithm,specif,valid,coupl,robust,design,control,optim,gener
+18,doc 19,fault diagnosi,genet algorithm,observ,search,engin,addit,mechan,integr,compon,model
+19,doc 20,pid control,control strategi,temperatur,regul,product,desir,util,robust,integr,model
+20,doc 21,pid control,time delay,numer method,desir,delay,stabil,design,optim,control,term of time-domain respons
+21,doc 22,standard,answer,continu,document,industri,control,gener,inform,standard set of symbol,isa dictionari definit for p
+22,doc 23,complex,select,control,implement,knowledg,function,model,design,process event incorpor expert,propos supervisori control scheme
+23,doc 24,pid control,genet algorithm,tune,simul,experiment result,perform,dynam,control,design,correspond perform assess rule
+24,doc 25,output,benchmark,profit,matric,perform,control,linear,optim,implement,model
+25,doc 26,review,continu,librari,chang,program,materi for new cours,out-of-print materi,gap in collect,copi,collect
+26,doc 27,pilot project,statist,review,univers,program,librari,implement,result of enthusiast patron comment,patron,result patron comment
+27,doc 28,music,publish,vendor,industri,perform,success acquisit of out-of-print music,appropri technic music vocabulari,print,method of acquisit,out-of-print
+28,doc 29,neural network,encod,sensit,learn,sequenc,posit,weight,network,knowledg,machin
+29,doc 30,classif,experiment result,cluster,probabl,indic,train,classifi,learn,model,gener
+30,doc 31,artifici neural network,embed,linear,output,converg,continu,separ,neural network,comput,distribut
+31,doc 32,inform process,optim,statist,tune,probabl,model,standard,perform,measur,inform
+32,doc 33,neural network,output,learn,mechan,code,network,implement,effici,comput,gener
+33,doc 34,correct,converg,imag,construct of panoram imag mosaic,correct formula,mistak,construct,local align,origin paper,incorrect equat
+34,doc 35,convolut,smooth,iter,packag,indic,observ,evolut,experi,select,filter
+35,doc 36,scene illumin,viewpoint,manipul,imag,interact,function,design,new volumetr decomposit techniqu,scene plenopt function,scene
+36,doc 37,paramet estim,encod,separ,smooth,video,discret,measur,constraint,sequenc,imag
+37,doc 38,govern,observ,constraint,linear,imag,structur,arbitrari unknown object motion,arbitrari number point light sourc,singl point light sourc,exampl of automat surfac reconstruct
+38,doc 39,field,bit,resourc,probabl,librari,stabil,inform,program,variou form of commun infrastructur,passel of local profession group
+39,doc 40,web site,observ,inform,web,resourc,structur,design,issu for bilingu develop,content-bas bilingu web site,use of card-sort activ
+40,doc 41,web site,internet,econom,organ,interact,structur,design,web,parallel,effici
+41,doc 42,navig aid,content,interact,model,comput,perform,inform,model of inform interact,context for inform architectur,inform architectur
+42,doc 43,user interfac,graphic,interfac,reason,databas,associ,effici,inform,design,law enforc user
+43,doc 44,suppli chain,invest,supplier,client,interfac,cost,associ,compani,product,technolog
+44,doc 45,power industri,knowledg manag,programm,pressur,cost,industri,knowledg,perform,manag,cost of electr power
+45,doc 46,regress function,fuzzi set theori,independ variabl,inform technolog,comput scienc,linear,reliabl,avail,inform,comput
+46,doc 47,comput industri,technolog chang,parallel comput,usa,person comput,evolut,market,govern,industri,product
+47,doc 48,decis maker,inform technolog,risk,model,avail,review,futur,invest,benefit,linear
+48,doc 49,oper frequenc,interpol,comput time,temperatur,accuraci,implement,program,effici,comput,gener
+49,doc 50,vendor,indic,network,measur,vendor-run accredit scheme,job applic skill,staff,practic,object measur,case
+50,doc 51,cost,manag,network,technolog,money,capac,channel,san,area,build
+51,doc 52,firewal,secur,network,slotshield,power,space,pci card,data,,
+52,doc 53,consult,manag,pitfal,success,asset,,,,,
+53,doc 54,benefit,technolog,uk-bas stream media specialist twofourtv,chief oper offic,staff in pictur,corpor intranet,firm,staff,offic,stream media
+54,doc 55,java,vendor,compani,softwar,program,cross-platform portabl of applic,test sun microsystem,java verif program,softwar vendor,server
+55,doc 56,consult,secur,observ,engin,interact,integr,standard,plan,strategi,manag
+56,doc 57,comput,recent klez worm use,e-mail carri virus,simpl techniqu,vulner,e-mail,onlin,virus,decept,simpl
+57,doc 58,constraint,probabl,observ,measur,structur,distinguish of quantum state,distinguish of orthogon quantum,interv of time t,orthogon single-photon state,explicit express
+58,doc 59,autom,complex,visual,size,map,product,imag,integr,subsequ ultrathin-lay gel electrophoresi,submicrolit size pcr reaction
+59,doc 60,programm,strategi,simpl,time,short-term strategi,deliv,health care,health,mind,
+60,doc 61,publish,supplier,packag,survey,softwar,lead public softwar packag,date,in-hous,current capabl,lead
+61,doc 62,publish,request for propos,write,format,make,fulfil rfp,look,pro,propos,time
+62,doc 63,metadata,resourc,librari,experi,internet,engin,review,associ,scienc,distribut
+63,doc 64,pilot project,research,engin,databas,observ,univers,scienc,canadian nation site licens project,opportun for subsequ phase,research databas in scienc
+64,doc 65,librari,model,inform,licens agreement on behalf,nation electron site licens initi,success of site licens,model licens agreement,interim evalu,behalf,academ librari
+65,doc 66,europ,univers,cooper,publish,continu,agent,associ,librari,inform,associ organis in australia
+66,doc 67,univers,busi,publish,document,avail,research,experi,web,strategi,scienc
+67,doc 68,publish,classifi,vendor,librari,organ,futur,posit,model,promis futur librari consortia,intern coalit of librari consortia-icolc
+68,doc 69,metadata,protocol,search,exchang,librari,provid of user servic,creation of interoper digit librari,effect digit librari interoper,digit librari,open archiv initi
+69,doc 70,content,relev,publish,engin,constraint,technolog,standard,industri,function,specif
+70,doc 71,partnership,publish,univers,econom,relev,librari,research,specif,experi,manag
+71,doc 72,publish,profit,cost,univers,learn,research,effici,potenti for scholarli onlin book,onlin book,scholar
+72,doc 73,univers,publish,program,indic,librari,manag,univers of california,california digit librari,faculty-l innov in scholarli publish,escholarship program
+73,doc 74,partnership,databas,publish,univers,resourc,scienc,librari,strategi,model,uniqu electron journal publish project
+74,doc 75,partnership,econom,cooper,publish,univers,librari,research,plan,inform,model
+75,doc 76,oper condit,temperatur,impact,machin,classifi,classif,account,experi,addit,model
+76,doc 77,perform measur,complex,minim,perform,content,effici,measur,total number of process,maxim number of step,complex of algorithm
+77,doc 78,comput network,memori,resourc,effici,perform,distribut,comput,network,design,model
+78,doc 79,protocol,topolog,avail,univers,desir,stabil,knowledg,chang,optim,addit
+79,doc 80,random,correct,implement,algorithm for two-process wait-fre test-and-set,elementari step,proof of correct,two-process wait-fre test-and-set,reset,algorithm,expect
+80,doc 81,budget,manag,web,new web-bas collabor tool,microsoft project,enterpris debut,project,make,microsoft,enterpris
+81,doc 82,flexibl,publish,web,integr,design,strong contend for web author,flexibl gui environ,comprehens workgroup,collabor server,adob goliv
+82,doc 83,firewal,web site,internet,futur,avail,interact,cluster,price,reason,market
+83,doc 84,qualiti of servic,deaf,html,disabl,web,web site,publish,visual,resourc,interfac
+84,doc 85,complex,busi,web site,reliabl,content,knowledg,web,optim,perform,network
+85,doc 86,invest,profit,cultur,standard,integr,manag,integr invest in site develop,cultur of usabl,usabl test,usabl test in-hous
+86,doc 87,web,program,wide varieti of debug tool,bug in web-bas applic,program practic,right tool,mind,author consid,tool,applic
+87,doc 88,programm,java,secur,memori,speed,code,program,manag,model,java secur sandbox program model
+88,doc 89,histori,encod,interfac,futur,resourc,standard,strategi,design,need for user tool,onlin archiv of california
+89,doc 90,util,encod,futur,web,indic,standard,implement,inform,gener,util of archiv descript data
+90,doc 91,standard,distinct sub-speci of digit collect,virtual collect,virtual collect virtual collect,curat,archivist,descript,applic,end,digit archiv
+91,doc 92,union member,polit,cultur,relev,cooper,secur,document,review,program,chang
+92,doc 93,survey,impact,encod,implement,util,function,program,institut goal for ead implement,evalu of ead program,pilot survey of earli implement
+93,doc 94,educ,web site,student,librari,web,learn,archiv materi,digit access,primari sourc materi,direct physic access
+94,doc 95,educ,continu,impact,observ,compon,strategi,manag,gener,archiv manag of electron record,write of david bearman
+95,doc 96,fuzzi logic,complex,identif,experiment result,optim,standard,strategi,technolog,structur,identif of complementari surfac patch
+96,doc 97,fuzzi set theori,identif,review,resolut,strategi,model,gener,model approach of molecular surfac,identif of molecular complementar,analysi of partial similar
+97,doc 98,parallel comput,accuraci,coupl,effici,delay,parallel,function,integr,comput,second set of slave
+98,doc 99,correl,complex,specif,select,structur,method for correl analysi,conform space of complex molecul,conform space,applic for molecular conform,relat conform space
+99,doc 100,genet algorithm,data set,publish,cluster,encod,util,model,implement,select,optim
+100,doc 101,librari,util,topolog,random,classifi,valid,organ,avail,visual,indic
+101,doc 102,neural network,aggreg,uncertainti,benefit,averag,minim,network,correl,train,research
+102,doc 103,genet algorithm,select,embed,desir,avail,popul,databas,correl,gener,select of repres subset
+103,doc 104,scale function,data set,outlier,topolog,relev,reason,univers,addit,databas,avail
+104,doc 105,intuit,separ,interact,statist,posit,plan,map,model,valu for fragment volum descriptor,valu for fragment hydrophob descriptor
+105,doc 106,comput model,organ,data set,correl,benefit,reduct,model,robust,addit,linear
+106,doc 107,stabil constant,comput model,data set,complex,coupl,account,linear,stabil,function,addit
+107,doc 108,probabl distribut,model,probabl,posit,linear,select,structur,distribut,quantit structure-act relationship model,rang of possibl end-point valu
+108,doc 109,indic,topolog,complex,agent,correct,comput,vertex degre of atom,applic of ze-isomer descriptor,novel ze-isomer descriptor,inabl of convent topolog indic
+109,doc 110,strong consensu,faculti member,faculti,student,survey,associ,learn,experi,univers,comput
+110,doc 111,children,student,educ,program,internet,univers,plan,learn,control,model
+111,doc 112,teacher,web site,student,scienc,web,interact,optim,learn,chang,technolog
+112,doc 113,teacher,student,web site,internet,relev,search,web,inform,implement,pre-select relev web site
+113,doc 114,knowledg base,educ,complex,busi,interact,student,scienc,approxim,research,field
+114,doc 115,pedagogi,teacher,director,cultur,graphic,educ,video,univers,learn,research
+115,doc 116,inform process,visual,overhead,educ,impact,reduct,observ,complex,memori,learn
+116,doc 117,princip compon analysi,data exchang,softwar,relev,classif,packag,flexibl,avail,design,exchang
+117,doc 118,paramet estim,frequenc respons,flux,separ,parallel,linear,model,measur,ratio of core flux,effect on frequenc respons
+118,doc 119,phase transit,comput complex,upper bound,complex,memori,random,statist,field,structur,chang
+119,doc 120,ion channel,numer simul,neural network,memori,nois,reason,dynam,simul,perform,network
+120,doc 121,fabric,discret,design,integr,control,structur,comput,decoupl track-follow control design,self-tun control scheme,reson mode
+121,doc 122,bit,programm,cluster,interact,resolut,control,inform,bit of inform,degre phase shift,strong intramolecular interact
+122,doc 123,vibrat,feedback control,robust,nois,avail,reduct,mass,simul,experi,control
+123,doc 124,high-ris build,experiment result,pressur,coupl,reduct,nois,technolog,compon,gener,control
+124,doc 125,onlin catalog,size,univers,minim,delay,deliveri,librari,control,inform,ohio state univers librari
+125,doc 126,librari,survey,standard,research,associ,servic for arl librari,standard for academ librari hour,associ for research librari,servic in academ librari,factor affect servic hour decis
+126,doc 127,web site,regul,answer,web,outlin use subject-specif web,basic legal web site,focu on statut,legal refer question,attorney directori,author highlight
+127,doc 128,onlin catalog,servic provid,librari,internet,comput,technolog,effect of new technolog,need for librari build,small academ librari,comput servic
+128,doc 129,complex,resourc,field,librari,content,knowledg,technolog,chang,inform,field of librarianship
+129,doc 130,faculti,fact,avail,student,librari,inform,case of illiad librari,develop of illiad,custom,on-campu custom
+130,doc 131,client,reason,librari,comput,manag,number of compel reason,academ librari,devic,number,note
+131,doc 132,partnership,cooper,lot,disabl,educ,student,learn,librari,method for increas cooper,variou unit on campu
+132,doc 133,internet,search,option,reliabl,databas,judgment,engin,research,addit,particip rate of familiar
+133,doc 134,identif,account,observ,learn,program,research,implement,control,perform,total set of snodgrass
+134,doc 135,databas,web site,educ,publish,organ,web,univers,standard,govern,plan
+135,doc 136,resolut,video,research,new method combin vesa,accept full-screen display,spitczok von brisinski,simpl vesa routin,psycholog research,ultrafast display,regist
+136,doc 137,delay,precis,avail,statist,averag,measur,experi,function,model,chang
+137,doc 138,student,comput,program,experi,perform,gener,perform for nonhuman subject,perform for human subject,comput program for program schedul,schedul of reinforc
+138,doc 139,teacher,java,random,student,option,answer,content,sequenc,databas,correct
+139,doc 140,world wide web,design procedur,educ,html,graphic,avail,databas,web,flexibl,interact
+140,doc 141,student,interact,video,web site,experi,field,web,dynam,learn,knowledg
+141,doc 142,futur,avail,experi,compon,content,inform,design,natur of ia design,intern theori,bottom-up design activ
+142,doc 143,children,portal,web,inform,content,design,appli inform architectur portion,children web portal,inform architectur,web portal
+143,doc 144,educ,field,graphic,comput scienc,flexibl,student,organ,content,chang,inform
+144,doc 145,histori,review,inform,field,annual acm sigchi confer,recent emerg of ia,emerg of inform architectur,summit,inform architectur,term
+145,doc 146,size,internet,impact,resourc,market,survey,random,reason,librari,differenti
+146,doc 147,expon,convolut,discret,distribut,model,theoret fraction frequenc distribut,construct of fraction frequenc distribut,consequ of lotka law,number of paper,fraction frequenc distribut
+147,doc 148,relev,internet,cultur,search,answer,reflect,correct,document,averag,index
+148,doc 149,optim,model,deterior for fluctuat demand,optim replenish schedul exist,al for origin paper,optim replenish schedul,overal optim polici,lot-siz model,optim polici,yang
+149,doc 150,identif,reliabl,case studi,correct,experi,resolut,probabl,reason,minim,constraint
+150,doc 151,manufactur,product,cost,associ,approxim,plan,strategi,nonrenew minimal-repair warranti plan,singl sale for single-compon item,event of product failur
+151,doc 152,mac os x,visual,control,program,advantag of use realbas,direct record of data,effect of sonifi graph,rapid develop of stimulu present,data,data collect procedur
+152,doc 153,belief,precis,research,benchmark,softwar,specif,standard,experi,machin,control
+153,doc 154,discret,observ,experi,minim,sequenc,continu,avail,program,code,control
+154,doc 155,java,experi,student,random,probabl,web,interfac,program,implement,measur
+155,doc 156,pedagogi,academia,faculti,unit state,educ,product,avail,student,web,univers
+156,doc 157,probabl,experi,manipul,web,reason,minim,perform,optim,learn,research
+157,doc 158,student,judgment,strategi,indic,util,account,protocol,knowledg,inform,train
+158,doc 159,independ variabl,faculti,survey,internet,web,publish,research,student,vision of moral scale,signific differ in score
+159,doc 160,world wide web,web site,age,student,educ,publish,research,util,document,web
+160,doc 161,indic,secur,experi,addit,identif,comput,gener,influenc of proactiv password restrict,minimum charact length reduc crackabl,use procedur for identif
+161,doc 162,color,graphic,flexibl,packag,avail,size,visual,interact,interfac,experi
+162,doc 163,random,linear,parallel,specif,function,measur,model,gener,design,nlmix procedur in sa
+163,doc 164,experiment psycholog,teacher,advent,experi,softwar,age,complex,avail,student,internet
+164,doc 165,servic provid,desir,internet,option,market,deliveri,network,cabl of best option,nich market segment,captur nich market
+165,doc 166,ibm,busi,student,technolog,program,manag,ibm internship program,busi manag,mba student,fresh voic
+166,doc 167,compani,posit,second quarter gloomi gdp report,economi,big,project,savvi cio,second,report,
+167,doc 168,wavelet coeffici,parallel comput,wavelet,correl,cluster,autom,accuraci,util,speed,parallel
+168,doc 169,polit,simul,vibrat,train,problem of turbogener vibrat,nuclear power plant,czech republ,problem,new staff,cast shadow
+169,doc 170,pressur,select,strategi,captain order golfer,ryder cup match,game theori,final day,slate,momentum,team
+170,doc 171,model,program,equit master surgic schedul,oper room time,integer-program model,administr save,credit,hospit,approach,room
+171,doc 172,busi,product,univers,cooper,avail,govern,research,program,inform,small busi innov research program
+172,doc 173,faculti,consult,student,case studi,benefit,research,continu,compani,industri,model
+173,doc 174,inform technolog,publish,search,research,content,inform,manag,scienc,technolog,earli exampl of si
+174,doc 175,world wide web,web site,precis,secur,account,univers,statist,optim,content,web
+175,doc 176,consult,contract,compani,busi,research,industri,softwar,manag,design,implement
+176,doc 177,optim,averag,structur,inform,new lower bound,optim inform rate,homogen access structur,new paramet,cover construct,k-degre
+177,doc 178,qualiti of servic,client,resourc,valid,simul,optim,specif,dynam,chang,control
+178,doc 179,probabl,optim,avail,output,identif,delay,research,specif,select,network
+179,doc 180,machin,constraint,minim,avail,optim,competit ratio of list schedul,competit ratio,unavail period,onlin,period
+180,doc 181,video,minim,search,complex,cost,random,effici,select,optim,new effici algorithm for rsp
+181,doc 182,encod,comput,string let x,encod length k,string,simpl o,edit,run-length,distanc,algorithm
+182,doc 183,vertic of differ partit set,subset of edg,subset,vertic,partit,hypercub,path of length,edg,bipartit graph,bound
+183,doc 184,organ,signatur scheme,new societi,ident,verifi,signatur,scheme,respect,co-sign,guillou-quisquat
+184,doc 185,quantum commun,probabl distribut,inform process,probabl,continu,mechan,nois,distribut,inform,oper phase-spac probabl distribut
+185,doc 186,banach space,embed,separ,continu,function,product,real separ banach space x,embed of level-continu fuzzi set,level-continu fuzzi set,ascoli-arzela type theorem
+186,doc 187,correl,posit,comput,interval-valu intuitionist fuzzi set,intuitionist fuzzi set,correl of intuitionist fuzzi set,centroid method,strength of relationship,fuzzi set,previou method
+187,doc 188,approxim,univers,standard,gener,rough set approxim oper,famili of binari relat,standard notion of equival relat,binari relat,neighborhood oper,approxim oper
+188,doc 189,function,numer represent of binari relat,binari relat,correspond binari relat,numer function,case,semiord,represent,error,multipl error function
+189,doc 190,popul,econom,impact,addit,minim,structur,gener,model,differ type of connect,pretopolog approach for structur analysi
+190,doc 191,perform evalu,databas,index,overhead,simul,experi,optim,perform,structur,effici
+191,doc 192,time delay,observ,delay,control,critic time for control,element introduc time delay,libet,control decis,time,synthet simultan
+192,doc 193,constraint,agent,programm,complex,industri,distribut,technolog,effici,program,model
+193,doc 194,statist model,accuraci,observ,map,learn,statist,visual,converg,model,weight
+194,doc 195,transpar,benefit,invest,packag,transport,cost,organ,select,model,plan
+195,doc 196,inform process,consult,brain,simul,comput,inform,integr,propos framework for process mean,studi on mean process,mean of languag
+196,doc 197,comput model,tune,reason,robust,addit,exchang,experi,learn,associ,function
+197,doc 198,heart,impact,internet,global internet on trademark law,case of uzi nissan,multimillion-dollar legal battl,case of david,trademark disput,case,greedi opportunist
+198,doc 199,servic provid,internet,govern,resourc,busi,organ,compani,control,law of local jurisdict,block of certain site
+199,doc 200,poll,unit state,atm,risk,avail,account,internet,observ,reliabl,technolog
+200,doc 201,size,function,specif,machin,comput,gener,handwritten text,handwritten,power,person digit assist
+201,doc 202,linear quadrat regul,sequenc,vehicl,suffici condit,simul result,stabil,regul,minim,speed,chang
+202,doc 203,paramet estim,separ,desir,avail,structur,sensor,parallel,perform,implement,design
+203,doc 204,state estim,intuit,probabl,random,standard,integr,chang,perform,model,distribut
+204,doc 205,program,code,function,pedagog tool in radar cours,plot ambigu function,matlab,puls,avoid loop,use,ambigu
+205,doc 206,synchron motor,slide mode control,desir,experiment result,simul,linear,addit,implement,structur,control
+206,doc 207,neural network,experiment result,simul,train,integr,network,chang,gener,control,off-lin train neural network
+207,doc 208,dynam behavior,oper condit,feedback control,speed,tune,regul,desir,robust,structur,addit
+208,doc 209,transient respons,scale factor,robust,simul result,tune,output,simul,implement,effici,measur
+209,doc 210,linear motor,extern disturb,numer method,numer result,neural network,feedback control,wavelet,simul,robust,learn
+210,doc 211,maximum likelihood estim,outlier,comput simul,presenc,desir,correl,robust,perform,approxim,simul
+211,doc 212,reliabl,sensor,accuraci,averag,identif,coupl,probabl,organ,databas,select
+212,doc 213,precis,correct,filter,probabl,simul,addit,linear,model,associ,dynam
+213,doc 214,nois,separ,filter,complex,gener,fetal biomagnet record,two-step procedur for signal process,simpl signal space project,matern cardiac interfer,cardiac interfer
+214,doc 215,bit,desir,interfac,averag,visual,train,perform,implement,design,comput
+215,doc 216,heart,iter,patient,reason,sequenc,map,simul,experi,addit,optim
+216,doc 217,linear,dynam,model,character of nonstationari multivari signal,analysi of event-rel data,variat bayesian algorithm,real electroencephalogram data,analysi,event-rel desynchron,algorithm
+217,doc 218,artifici neural network,autom,publish,neural network,desir,classif,continu,posit,distribut,specif
+218,doc 219,desir,nois,correl,select,visual,field,model,inform,wald test on sourc amplitud,requir number of sourc
+219,doc 220,wavelet coeffici,complex dynam,wavelet transform,complex,pressur,separ,accuraci,observ,valid,wavelet
+220,doc 221,distort measur,comput complex,viabil,vector quantiz,optim problem,outlier,cluster,price,smooth,sensit
+221,doc 222,comput simul,interact,simul,packag,complex,observ,mechan,experi,model,comput
+222,doc 223,finite-el method,comput cost,complex,separ,packag,account,valid,cost,map,addit
+223,doc 224,accuraci,simul,embed,account,speed,gener,perform,model,device-onli simul use gaa msm,gener of millimet wave
+224,doc 225,numer method,approxim,function,discret,complex,differenti,simul,linear,weight,integr
+225,doc 226,spatial discret,comput time,reflect,flexibl,benchmark,indic,govern,accuraci,simul,discret
+226,doc 227,compat,memori,measur,effici,novel bitlin sens scheme,number of sens amplifi,degrad of data-retent time,major obstacl in low-voltag dram,offset-cancel sense-amplifi scheme,low suppli voltag
+227,doc 228,transact,engin,embed,fabric,memori,speed,map,implement,technolog,mobil person digit assist
+228,doc 229,fabric,resolut,interfac,observ,measur,technolog,new type of switch scheme,degrad in signal-to-nois ratio,mu m cmo technolog,digital-to-analog convert
+229,doc 230,oper frequenc,delay,design,techniqu for design phase-frequ detector,higher oper frequenc,ghz,pfd,faster frequenc acquisit,mu m cmo,convent pfd
+230,doc 231,reduct,memori,coupl,nois,technolog,gener,high-voltag transistor scale circuit techniqu,high coupling-ratio cell technolog,maximum intern voltag,circuit techniqu
+231,doc 232,memori,averag,index,implement,measur,technolog,tag cell in level,sens amplifi in level,mu m cmo technolog,sens amplifi
+232,doc 233,relev,learn,knowledg,associ,posit,perform,program,induct logic program,spatial relat,proper background knowledg
+233,doc 234,client,machin,account,implement,integr,concept of multipl user account,new featur of window xp,built-in capabl of termin servic,window xp,fast user switch
+234,doc 235,reflect,code,fact,implement,gener,net common languag runtim,run time,emit,class,favorit regular express
+235,doc 236,cost,avail,engin,option,price,benefit,probabl,function,softwar,manag
+236,doc 237,averag,simul,function,model,simul in previou averag model,state-spac averag techniqu,variou damp effect,small-sign ac analysi,dc transfer function,activ role
+237,doc 238,cost,engin,softwar,perform,compon,design,reduc prototyp cost,power suppli engin,flyback convert exampl,power suppli design
+238,doc 239,children,virtual realiti,disabl,gender,softwar,program,indic,experi,research,knowledg
+239,doc 240,belief,indic,content,web,learn,specif,research,measur,gener,structur
+240,doc 241,teacher,student,educ,impact,specif,comput,design,efficaci of electron telecommun,effect of electron telecommun,interperson relationship
+241,doc 242,complex,function,design,new method of systemolog analysi,procedur of object-ori design,function flow-typ object,result of develop,object-ori systemolog method,node-function-object class hierarchi,vestn
+242,doc 243,associ,case of fuzzi data,fuzzi bayesian infer techniqu problem,bayesian decis procedur,concept of fuzzi,pseudofuzzi quantiti,fuzzi bayesian method,modus-ponen rule,princip concept,basic relationship
+243,doc 244,initi state,matric,correct,linear,possibl variant,solut,modulo,safe problem,residu class,number
+244,doc 245,avail,simul,gener,acceler simul,investig,class,acceler,numer exampl,evalu,repair
+245,doc 246,minim,discret,optim,function,comput,control,distribut,highli accur comput discret scheme,quadrat minim function,optim control
+246,doc 247,fuzzi set theori,identif,complex,measur,inform,basi of fuzzi valu,apparatu of fuzzi set theori,admiss degre of measur error,basi of fuzzi inform,problem of identif
+247,doc 248,function,decomposit of boolean function,method of q-partit,theorem on simpl disjunct decomposit,new approach,decomposit of boolean,decomposit,n variabl,method,minterm
+248,doc 249,account,random,function,mix central moment function,problem of nonlinear extrapol,nonlinear extrapol algorithm,nonlinear random depend,investig process,method,moment function
+249,doc 250,matric,search,linear,method for solut,m-dimension lambda,propos method,method,solut,equat,kind
+250,doc 251,compat,upper bound,minim,linear,compon,constraint,gener,minim set of solut,minim support set of solut,set of natur number criteria
+251,doc 252,optim problem,size,code,optim,size of error-correct code,z-channel optim problem on graph,new lower bound,bound,formul,problem
+252,doc 253,program,function,complet set of descriptolog oper,oper of introduct,concept of introduct,level of process,extract of abstract,elimin of abstract,descript process,intension concept
+253,doc 254,simul result,bit,video,robust,metric,overhead,nois,simul,effici,control
+254,doc 255,numer result,cost,web site,html,relev,size,content,manag,experi,associ
+255,doc 256,transpar,vendor,supplier,govern,contract,internet,account,benefit,function,integr
+256,doc 257,ccd camera,manipul,safeti,precis,indic,vehicl,autom,coupl,experi,imag
+257,doc 258,internet protocol,internet,integr,embed,databas,util,web,protocol,strategi,softwar
+258,doc 259,compat,indic,research,model,survey,posit,technolog,manag,perform,gener
+259,doc 260,popul,person comput,resourc,softwar,inform,comput,effect of facil oper,electron popul data resourc,estim of popul,collect dose
+260,doc 261,user interfac,util,precis,graphic,coupl,imag,memori,softwar,speed,addit
+261,doc 262,polynomi,function,engin,gener,distribut,airi stress function method,gener solut in engin,gradient piezoelectr cantilev,piezoelectr cantilev,gener solut
+262,doc 263,lifetim,sensit,memori,experi,approxim,observ,map,squeez state of light,quadratur phase oper of light,quantum state of light
+263,doc 264,design constraint,quantum comput,decoher,qubit,encod,interact,engin,sequenc,optim,constraint
+264,doc 265,stationari state,phase transit,mass,product,observ,market,addit,model,field,inform
+265,doc 266,confid interv,statist,accuraci,econom,simul,approxim,distribut,nois,simul seri of differ length,major issu in financi econom
+266,doc 267,coupl,simul,interact,model,minim,knowledg,dynam,differ type of behaviour,present simul of evacu process,proper combin of herd
+267,doc 268,dynam behavior,sensit,complex,dynam,map,dynam transit,period motion,number of nonstop,bu stop,attractor
+268,doc 269,cellular automata,popul,age,model,penna model in penna,sheep fluctuat in accord,cellular automata model,verhulst factor,quantiti,sheep
+269,doc 270,option,price,integr,distribut,natur martingal for option price,wealth balanc of option,option price,natur martingal,levi distribut,simpl stochast calculu
+270,doc 271,econom,market,quantum-lik descript of market,quantum game theori,quantum,descript,recent develop,approach,root,game
+271,doc 272,throughput,cellular automata,separ,observ,averag,iter,size,distribut,dynam,model
+272,doc 273,phase transit,numer simul,numer result,vehicl,separ,observ,speed,simul,model,analyt express for variou quantiti
+273,doc 274,publish,complex,statist,mechan,applic of statist mechan apparatu,so-cal bagsik oscil,incorrect bank data,complex number,piotrowski,sladkowski
+274,doc 275,presenc,busi,fact,reflect,size,observ,correl,model,model of independ busi,varianc of firm growth rate
+275,doc 276,profit,exchang,avail,statist,size,market,sequenc,effici,measur,inform
+276,doc 277,reason,evolut,observ,market,statist,addit,index,uncertainti,model,dynam
+277,doc 278,exchang,correl,account,dynam,nonlinear time seri analysi,high-frequ currenc exchang data,applic of recurr quantif analysi,quantif of recurr plot,euro zone,time seri
+278,doc 279,transact,option,risk,price,reliabl,market,account,identif,futur,standard
+279,doc 280,observ,field,statist,compon,experi,effici,control,coher field,construct two-photon interfer,higher-ord quantum fluctuat
+280,doc 281,boltzmann equat,vehicl,continu,reason,interact,evolut,addit,research,dynam,function
+281,doc 282,transact,presenc,profit,web site,electron commerc,web,market,internet,busi,invest
+282,doc 283,world wide web,web site,case studi,industri,indic,internet,market,util,web,presenc
+283,doc 284,price,suppli chain,profit,transact,web site,internet,product,fact,busi,market
+284,doc 285,comput complex,complex,reduct,imag,select,comput,affin invari of convex polygon,affin invari,complet set,object recognit
+285,doc 286,wavelet transform,bit,video,implement,experiment result,wavelet,optim,memori,speed,code
+286,doc 287,convolut,fact,imag,effici,account,comput,reason,nois,comput of local moment,effect of uncorrel nois
+287,doc 288,wavelet coeffici,wavelet transform,resolut,wavelet,nois,separ,imag,magnitud,constraint,model
+288,doc 289,experiment result,minim,video,viewpoint,indic,account,function,map,object contour in video,problem of background clutter
+289,doc 290,lot,video,encod,fact,smooth,imag,iter,reason,account,function
+290,doc 291,wavelet,probabl,filter,imag,knowledg,reduct,correl,approxim,nois,dynam
+291,doc 292,wavelet transform,roi,overhead,encod,embed,wavelet,discret,code,avail,relev
+292,doc 293,oper condit,stabil,optim,cost,linear,control,gener,design,common method of improv stabil,effect synchron gener
+293,doc 294,tune,softwar,network,distribut,compens coil tune,softwar tool,author,behavior,detect,regard
+294,doc 295,chang,engin,train,simul,util,dynam,technolog,inher requir for simul technolog,energi util,chang environ
+295,doc 296,engin,identif,speed,simul,field,compon,gener,control,measur,model
+296,doc 297,deregul,power industri,technolog chang,futur,industri,review,engin,technolog,integr,network
+297,doc 298,secur,continu,uncertainti,packag,reliabl,util,busi,market,softwar,standard
+298,doc 299,internet resourc,firewal,programm,internet,resourc,softwar,specif,filter,gener,control
+299,doc 300,director,busi,invest,integr,softwar,technolog,competit in today current climat,latest softwar applic,key,portfolio
+300,doc 301,risk,busi,secur,regul,impact,manag,compani,standard,unquantifi secur risk,failur
+301,doc 302,inform network,advent,util,plan,network,inform,control,structur,above-ment optic fiber network,sewer optic fiber teleway
+302,doc 303,statist model,closed-form express,distort measur,decod,imag,wavelet,statist,avail,constraint,approxim
+303,doc 304,triangl,embed,robust,fact,imag,manipul,correl,addit,content,perform
+304,doc 305,color,interpol,visual,imag,correl,specif,filter,perform,term of mean squar error,color plane interpol
+305,doc 306,scene illumin,color,imag,avail,correl,perform,experi,statist,specif,implement
+306,doc 307,scene illumin,color,manipul,avail,reflect,precis,experi,magnitud,correct,correl
+307,doc 308,metric,imag qualiti,answer,color,imag,complex,visual,simul,map,associ
+308,doc 309,minim,control,recent improv of ingham,minim time,fourier method,type theorem,type,improv,time,result
+309,doc 310,control signal,industri,standard,control,experi,implement,friction compens for pneumat control,pneumat control valv,compens,puls
+310,doc 311,pid control,sensit,perform,answer,function,robust,control,integr,measur,function of dead-tim margin
+311,doc 312,design constraint,account,constraint,optim,control,gener,design,model,lift model,new gpc algorithm
+312,doc 313,graphic,observ,visual,size,output,select,measur,comput,model,number of independ subset
+313,doc 314,princip compon analysi,benchmark,identif,industri,matric,complex,observ,output,sensor,simul
+314,doc 315,radial basi function neural network,design procedur,neural network,simul result,regul,temperatur,avail,simul,identif,databas
+315,doc 316,interact,addit,structur,gener,manual initi of deform surfac,major bottleneck in interact segment,centrelin,new paradigm,initi guess,haptic devic
+316,doc 317,avail,educ,graphic,visual,interact,document,review,imag,plan,posit
+317,doc 318,reliabl,imag,patient,visual,plan,perform,comput,structur,problem of lung metastasi detect,visual on ct imag
+318,doc 319,finit element model,imag segment,robust,valid,data set,research,packag,organ,util,avail
+319,doc 320,sequenc,web,video,student,visual,databas,model,structur,planar obliqu slice in order,sequenc of scene construct
+320,doc 321,cut tool,interact,survey,simul,experi,research,perform,implement,structur,model
+321,doc 322,imag segment,imag,experi,uncertainti,linear,desir,account,accuraci,optim,classifi
+322,doc 323,numer simul,hybrid approach,map,robust,speed,effici,stabil,addit,simul,time effect phase unwrap
+323,doc 324,desir,viewpoint,sensit,differenti,engin,filter,field,design,novel approach of strain segment,digit method
+324,doc 325,accuraci,random,averag,posit,nois,perform,sensit,experi,high posit accuraci,modifi averag oper
+325,doc 326,nois characterist,nois,color,magnitud,random,filter,imag,approxim,reduct,dynam
+326,doc 327,scale factor,converg,experiment result,util,correl,filter,chang,inform,mellin radial harmon decomposit,fourier transform profilometri techniqu
+327,doc 328,roi,autom,robust,interact,experi,function,posit,specif,comput,locat in camera calibr
+328,doc 329,reflect,precis,reliabl,chang,resolut,experi,differenti,measur,posit,eccentr light beam approach
+329,doc 330,manufactur process,robust,manipul,resolut,autom,map,imag,constraint,manufactur,optim
+330,doc 331,vehicl,color,overhead,presenc,averag,indic,observ,robust,probabl,size
+331,doc 332,experiment result,desir,imag,output,reflect,approxim,mechan,filter,implement,compon
+332,doc 333,complex,memori,correl,addit,effici,perform,one-step msd addit techniqu,set of minterm need,content-address memori,incoher correl
+333,doc 334,resolut,imag,integr,improv view resolut,nonstationari micro-opt techniqu,improv,view,adopt,potenti,present
+334,doc 335,convolut,inform process,resolut,imag,code,function,distribut,technolog,inform,design
+335,doc 336,imag,magnitud,addit,model,compon,comput,short baselin binocular imag pair,problem of figure-ground segment,invers fourier transform,result addit imag
+336,doc 337,ccd camera,cielab,color,account,output,reflect,imag,filter,model,nois
+337,doc 338,iter,smooth,converg,experiment result,minim,util,function,nois,imag,knowledg
+338,doc 339,optim problem,sequenc,imag,precis,optim,dynam,program,field,perform,comput
+339,doc 340,experiment result,correl,imag,simul,posit,perform,function,filter,implement,chang
+340,doc 341,wavelet transform,bit,vector quantiz,overhead,publish,decod,wavelet,discret,code,imag
+341,doc 342,reconstruct imag,imag qualiti,imag,discret,accuraci,resolut,comput,integr,reconstruct imag of digit holographi,simplic in experiment requir
+342,doc 343,search algorithm,precis,search,speed,probabl,effici,optim,experi,linear,imag
+343,doc 344,fuzzi logic approach,copyright protect,fuzzi logic,robust,visual,imag,experi,model,fuzzi logic techniqu,adapt digit watermark scheme
+344,doc 345,color,correl,encod,experiment result,function,perform,imag,distribut,correl of color imag,color pattern recognit task
+345,doc 346,metric,search,desir,continu,effici,approxim,gener,set of vector evalu,set of effici vector evalu,search for effici solut
+346,doc 347,patient,comput,inform,acut period of concuss,result of comput process,number of comput procedur,experiment inform,number,articl,result
+347,doc 348,correl,robust,linear,regular of linear regress problem,estim of linear regress paramet,regular,bayesian method,blue,bayesian approach,studi consid
+348,doc 349,unit state,option,reliabl,close number of vote,small number of vote,self-consist choic contain term,plural vote,approv vote,self-consist choic,main option
+349,doc 350,invers problem,relev,identif,function,model,structur,hierarch structur,uniqu solvabl,parabol equat,coeffici
+350,doc 351,invers problem,mathemat model,exchang,effici,experi,model,mathemat model of ion exchang,process of ion exchang,numer solut method,ion exchang compress
+351,doc 352,cluster,interfac,simul,comput,parallel,standard,implement,so-cal messag pass interfac,parallel of applic algorithm,numer solut of gas-dynam problem
+352,doc 353,survey,pressur,interact,simul,review,size,field,model,literatur on hybrid simul,kelvin-helmholtz instabl in finite-s object
+353,doc 354,complex,impact,matric,iter,memori,code,comput,perform,actual perform of algorithm,iter solver for dens matric
+354,doc 355,case studi,reflect,field,program,imag,code,plan,comput,structur,ray carri field
+355,doc 356,market,addit,dynam,program,research,use of oper research,flip analysi flip,solitair board game,flip,manageri decis make
+356,doc 357,faculti,deliveri,univers,relev,output,educ,observ,engin,student,experi
+357,doc 358,vehicl,implement,research,manag,scienc,gener,network,recent shift of attent,spreadsheet,critic path
+358,doc 359,simul,packag,object-ori version of simlib,easy-to-understand discrete-ev simul packag,object point of view,single-serv queue simul,object-ori version,object-ori simlib,simpl simul packag,object
+359,doc 360,upper bound,probabl distribut,probabl,distribut,inform,valu of perfect inform,evpi,maximum possibl evpi,state,world
+360,doc 361,student,classroom use microsoft powerpoint,classroom use,classroom version,millionair,instruct on oper,version,instruct,classroom edit,use
+361,doc 362,probabl,answer,util,continu,statist,research,dynam,manag,scienc,program
+362,doc 363,probabl distribut,risk,student,packag,iter,continu,probabl,avail,interact,simul
+363,doc 364,educ,futur,vehicl,deliveri,scienc,manag,chang,model,renaiss in ms educ,decad of enorm chang
+364,doc 365,heart,student,fact,reason,simul,manag,plan,optim,scienc,model
+365,doc 366,decis maker,polit,student,busi,manag,experi,scienc,program,gener,model
+366,doc 367,budget,invest,option,univers,continu,addit,librari,scienc,posit,strategi
+367,doc 368,addit,avail,market,inform,valu of book,factor of edit,patterson studi,print book,fifty-six titl,valu
+368,doc 369,econom,market,sampl of fifty-six titl,basic econom principl,valu of book,valu,autograph,factor,fifty-six titl,titl
+369,doc 370,histori,field,technolog,scienc,method of collect develop,necessari basi for success,histori of scienc,basic refer tool,rare materi,beginn
+370,doc 371,case studi,chang,librari,tale of special collect,small academ librari,special collect depart,academ environ,collect,acquisit polici,academ librari
+371,doc 372,librari,chang,jame ford bell librari,basic acquisit philosophi,note special collect,electron revolut,acquisit,commentari,articl,approach
+372,doc 373,cultur,publish,strategi,librari,import role in poetri,underground poetri for librari collect,acquisit difficulti,librarian,collect poetri,local focu
+373,doc 374,addit,model,posit,model of bound ration,emot,bound ration,hanoch,comment,author refer,hanoch comment
+374,doc 375,reason,constraint,addit,sourc of bound ration,long tradit of thinker,addit sourc of bound ration,high emot arous,effect of emot,bound ration,kaufman unidimension idea
+375,doc 376,motiv,option,learn,function,model,motiv forc of emot,biology-bas model of choic,biolog substrat of choic,emot,learn of expect
+376,doc 377,comput industri,person comput,evolut,price,cost,model,industri,product,comput,equilibrium model of industri evolut
+377,doc 378,util,function,specif,chang,model,context of health outcom,intertempor prefer for monetari outcom,hyperbol discount model,hyperbol model,du model
+378,doc 379,model,search,speed,cost,util,market,dynam,chang,standard,integr
+379,doc 380,intuit,organ,account,econom,classifi,structur,control,map,research,well-defin ultim control group
+380,doc 381,organ,cooper,reflect,structur,technolog,design,literatur on properti right,literatur on modular design,partit of rights-understood,right of alien
+381,doc 382,inject mould,minimum valu,object function,numer simul,temperatur,sensit,iter,posit,design,simul
+382,doc 383,safeti,case studi,uncertainti,posit,benefit,market,simul,manag,specif,plan
+383,doc 384,manufactur,packag,cost,univers,engin,research,machin,design,model,perform
+384,doc 385,perform measur,simul result,averag,delay,indic,flexibl,simul,perform,util,addit
+385,doc 386,fuzzi logic approach,perform measur,fuzzi logic,flexibl,manufactur,simul,perform,measur,model,altern rout possibl
+386,doc 387,inject mould,user interfac,manufactur process,cost,case studi,product,econom,sequenc,valid,select
+387,doc 388,fractal dimens,machin,interfac,speed,comput,model,exist of non-euclidean contact geometri,machin of aluminium alloy,geometri of contact,use fractal
+388,doc 389,layer manufactur process,manufactur process,addit,machin,review,manufactur,research,structur,integr,control
+389,doc 390,voltag compens in support,alaska,author,construct,support,world,paper,energi,help,storag
+390,doc 391,two-cascad semiconductor optic amplifi,counterpropag feedback configur,mutual gain modul,configur,extinct ratio,gain nonlinear,extinct,soa,two-cascad semiconductor,amplifi
+391,doc 392,comput simul,patient,imag,iter,presenc,minim,impact,statist,simul,filter
+392,doc 393,voxel size,patient,valid,protocol,imag,averag,size,posit,inform,standard
+393,doc 394,databas,code,product,bar code label,track meat product,central databas,custom,wireless termin,link,accur
+394,doc 395,relev,statist,minim,probabl,specif,select,content,distribut,gener,inform
+395,doc 396,bifurc,relev,sensit,stabil,associ,differenti,dynam,chang,essenti featur of enzymat reaction,appear of larg amplitud
+396,doc 397,distanc measur,correl,avail,interpol,random,simul,product,model,distribut,compon
+397,doc 398,comput network,minim,structur,comput,network,gener,span tree,tree enumer in undirect graph,algorithm,flow
+398,doc 399,inject mould,initial-boundari valu problem,presenc,pressur,associ,gener,presenc of bodi forc,certain boundari valu problem,equat for inject mould,exist of weak solut
+399,doc 400,busi environ,linear,transport,busi,avail,industri,constraint,program,research,function
+400,doc 401,mathemat model,constraint,optim,plan,research,linear,gener,program,model,advertis campaign of good
+401,doc 402,continu,addit,design,all-opt xor gate,addit input beam,continu wave light,input signal,boolean ab,clock signal,input
+402,doc 403,internet,survey,account,web,inform,design,onlin advic,influenc peopl respons,advic,trust
+403,doc 404,internet,technolog,continu,research,impact,market,internet gambl,technolog develop in internet gambl,area of potenti concern,develop of gambl practic
+404,doc 405,compani,organ,continu,manag,integr,technolog,remot staff,report of frustrat,issu of remot,use of intranet
+405,doc 406,internet,motiv,age,survey,mass,web,function,comput,internet transform collect action,natur of collect action
+406,doc 407,virtual commun,internet,inform technolog,account,technolog,inform,reaction of commun member,perpetr of ident decept,express of true self,reveal ident decept
+407,doc 408,manipul,associ,interact,comput,research,strength of group ident,degre of person identifi,computer-medi group,concept of deindividu,identifi computer-medi group
+408,doc 409,viabil,survey,internet,research,experi,measur,repeat measur survey research onlin,longitudin survey research,issu of data,particip
+409,doc 410,depend variabl,internet experi,internet,motiv,util,experi,structur,inform,internet-bas psycholog experi,use of dropout
+410,doc 411,internet,research,review,interact,design,comput,social implic of internet use,intern confer on psycholog,breadth of research,psycholog
+411,doc 412,reconstruct imag,imag,robust,topolog,resolut,map,specif,function,measur,chang
+412,doc 413,statist analysi,usa,frequenc respons,observ,nois,statist,engin,addit,standard,filter
+413,doc 414,case studi,continu,optim,function,problem of convex optim,absenc of infinit number,ideal slide mode,continu convex-program algorithm,slide mode,exact penalti function
+414,doc 415,autom,complex,compon,specif,structur,control,effici,complex structur in real time,method for autom,complex structur
+415,doc 416,engin,control,machin,intern combust engin,low-temperatur plasma control,reduc fuel consumpt,work process,process,steam machin,exhaust toxic
+416,doc 417,optim,resourc,dynam,cluster,softwar,program,comput,control,chang,gener
+417,doc 418,commut,addit,implement,gener,gener hypercub display in addit,failure-toler of doubl p-ari multir,doubl p-ari multir,commut of channel,arbitrari single-el permut,doubl p-ari hypercub
+418,doc 419,cooper,function,classic characterist function,number of decis,cooper game,uniqu solut,characterist function,solut,new concept,number
+419,doc 420,transport,network,optim,addit,design,number of branch point,locat of transport rout,given set of termin point,locat,certain number
+420,doc 421,motiv,agent,control,function,linear,weight,problem of control,solv problem,goal function,criteria
+421,doc 422,comput experi,flexibl,uncertainti,constraint,mathemat model,complex,chang,optim,design,experi
+422,doc 423,fuzzi logic,vehicl,discret,stabil,vibrat,perform,control,structur,design,model
+423,doc 424,constraint,linear,control,hidden convex,properti,studi,,,,
+424,doc 425,discret,polynomi,linear,stabil,set of stabl polynomi,certain auxiliari plane,discret variant,coordin plane,configur,geometri
+425,doc 426,stabil,random,mass,approxim,experi,linear,structur,gener,random jump in phase trajectori,random jump
+426,doc 427,suffici condit,smooth,optim,control,optim control switch point,optim control,nonlinear,properti,exist,switch
+427,doc 428,embed,polynomi,technolog,structur,gener,number of step,class of solut,bezout matrix ident,polynomi equat,descript exampl
+428,doc 429,reachabl set,reachabl,reduct,approxim,linear,optim,function,control,design,gener
+429,doc 430,function,polynomi,univers,integr,independ constant for decomposit,integr rang of exponenti function,integr rang for exponenti function,integr rang,univers decomposit,constant
+430,doc 431,minim,field,sequenc,linear,experi,control,gener,inform,field of real number,synchron experi
+431,doc 432,specif,implement,behavior defect of object,class of physic defect,diagnosi,step-by-step approach,disturb,approach,specif problem,mode
+432,doc 433,reliabl estim,reliabl,softwar,select,standard,control,model,systemat of adapt method,event graph model,reliabl requir
+433,doc 434,effici,method of conflictless realiz,nonlock in multir,arbitrari permut,data block,hypercub,high effici,data item,multir,method
+434,doc 435,linear,complex,polynomi,compon,map,model,technolog,linear model of circuit,lineardesignmv algorithm on circuit,number of multivalu compon
+435,doc 436,human factor,identif,structur,problem of structur identif,process of structur identif,new approach,problem,decis role,recognit,discuss
+436,doc 437,throughput,complex,sequenc,polynomi,cost,optim,network,design,typic problem of network reconstruct,given number of sequenc term
+437,doc 438,bounded,continu,stabil,linear,control,condit,initi data,feedback circuit,pulse-frequ modul,solut
+438,doc 439,reachabl set,reachabl,iter,optim,design,control,class of multistep control process,class of multistep control,class,upper estim
+439,doc 440,random,statist,size,standard,distribut,gener,inform,standard method of estim,properti of gener confid set,construct of confid set
+440,doc 441,dynam,new notion of equilibrium,dynam game problem,basic equilibria,propos,non-coop game,game,problem,place,notion
+441,doc 442,state vector,observ,desir,embed,separ,control,technolog,linear,compon,function
+442,doc 443,linear,dynam,standard,function,bound time interv consider,bound time interv,classic frequenc characterist,transcendent characterist equat,spectral characterist,partial spectra
+443,doc 444,quantum comput,technolog,experi,scienc,comput,quantum,practic devic,solid-st devic,challeng,author
+444,doc 445,futur,compani,heighten fear of privaci abus,recent string of failur,peril of privaci,custom list,disclosur,privaci polici,commerci concern,list
+445,doc 446,pedagogi,secur,industri,reflect,place in san francisco,enterpris in focu,author report,industri reflect,enterpris,balanc
+446,doc 447,person comput,secur,industri,supplier,risk,educ,busi,govern,comput,search
+447,doc 448,graphic,imag,code,alter jpeg file,jpeg imag file,compress graphic imag,affect jpeg file,file,main viru featur,execut code
+448,doc 449,cultur,secur,document,standard,inform,implement,control,intern inform secur standard,variou intern inform secur standard,inform secur polici
+449,doc 450,firewal,lot,secur,manag,specif,basic of secur crisi manag,kind of secur event,corpor crisi manag,secur crisi,secur event
+450,doc 451,compani,manufactur,industri,secur,market,technolog,chang,import redund power suppli,million of dollar,redund air condit
+451,doc 452,industri,patient,benefit,manufactur,optim,integr,perform,new solut,build,offic meet
+452,doc 453,europ,busi,engin,supplier,product,answer,manufactur,implement,distribut,compani
+453,doc 454,unit state,materi handl,packag,accuraci,product,speed,specif,machin,distribut,effici
+454,doc 455,oper condit,engin,embed,product,pressur,optim,market,indic,compani,measur
+455,doc 456,product,invest,fabric,precis,speed,reason,industri,cost,manufactur,specif
+456,doc 457,comput complex,autom,invest,program,futur,simul,complex,knowledg,softwar,product
+457,doc 458,suppli chain,industri,market,autom,manufactur,product,softwar,integr,effici,tradit limit of manufactur effici
+458,doc 459,throughput,busi,product,desir,supplier,complex,industri,discret,optim,manufactur
+459,doc 460,manufactur process,manufactur,industri,pressur,busi,continu,discret,evolut,product,integr
+460,doc 461,interpol,beth properti for l,beth properti,classic modal case,boolean case,intuitionist modal logic,algebra properti,classic case,differ form,case
+461,doc 462,topolog,imag,product,topolog densiti of homomorph imag,boolean algebra,cardin of close subspac,zfc use pcf,famili of cardin,result on ultraproduct,boolean
+462,doc 463,law firm,busi environ,consult,client,busi,market,futur,avail,survey,learn
+463,doc 464,regul,consult,servic provid,continu,govern,market,implement,european electron signatur direct,latest develop on e-signatur,signific of certif servic provid
+464,doc 465,law firm,publish,field,mirror group newspap for damag,data protect act,breach,case,distress,naomi campbel,onlin publish
+465,doc 466,web site,judgment,busi,web,inform,use of variou optimis techniqu,optimis techniqu for web site,reed busi inform limit,reed solut plc versu,trade mark infring
+466,doc 467,consult,softwar,comput,program,sensibl european legisl on softwar,total lack of uniti,invent use softwar,commiss in octob,european patent offic,nation patent law
+467,doc 468,europ,publish,cooper,internet,indic,content,control,content of foreign-host internet site,ambit of english crimin law,council of europ cybercrim convent
+468,doc 469,deliveri,comput,e-govern,special legal issu,e-govern modernis,public servic,introduct,hint,author,electron deliveri
+469,doc 470,evolut,document,cost,imag,cost point of view,imag e-mail,disclosur,origin paper,paper,legal team
+470,doc 471,consult,client,benefit,futur,govern,protocol,avail,chang,law societi rule govern storag,electron storag of legal file
+471,doc 472,data exchang,consult,softwar,packag,industri,chang,busi,databas,exchang,standard
+472,doc 473,secur,standard,technolog,softwar,control,new medium of commun,widespread use of e-mail,secur form of commun,legal profess,e-mail
+473,doc 474,dea,dispos e-mail address,number of dea,dea in mailshel,e-mail,address,mailshel,solut,author,number
+474,doc 475,web site,budget,compani,invest,busi,web,specif,experi,web site firm staff,web site firm
+475,doc 476,law firm,contract,invest,web site,web,standard,strategi,law firm web site,good invest,best invest
+476,doc 477,patient,ontolog,inform technolog,imag,interfac,parallel,research,web,distribut,inform
+477,doc 478,inform technolog,mathemat model,patient,engin,univers,imag,content,research,technolog,knowledg
+478,doc 479,servic provid,internet,desir,deliveri,review,addit,research,experi,product,network
+479,doc 480,standard gener markup languag,data exchang,sgml,exchang,standard,protocol,structur,effici,model,gener
+480,doc 481,risk,pressur,mass,autom,index,function,weight,gener,necess for lifestyl improv,use advic for lifestyl improv
+481,doc 482,inform technolog,inform process,organ,continu,industri,stabil,structur,specif,inform,network
+482,doc 483,employe,knowledg manag,knowledg,impact,product,busi,structur,learn,perform,posit
+483,doc 484,organ,impact,evolut,internet,futur,busi,strategi,review,research,associ
+484,doc 485,case studi,invest,search,manufactur,model,research,compani,dynam,design,gener
+485,doc 486,throughput,strategi,agent,protocol,structur,experi,librari,function,model,design
+486,doc 487,synchron motor,variabl structur control,state estim,neural network,uncertainti,discret,observ,linear,network,structur
+487,doc 488,design procedur,presenc,control strategi,addit,control,function,linear,differenti,stabil,gener
+488,doc 489,partnership,comput scienc,student,univers,engin,experi,comput,scienc,design,mobil comput design competit
+489,doc 490,standard,motiv,univers,deliveri,industri,protocol,comput,broader term servic discoveri,need for plug-and-play solut,pervas comput environ
+490,doc 491,magazin,interfac,product,mechan,compani,specif,technolog,comput,gener,design
+491,doc 492,mobil agent,client,internet,agent,standard,dynam,program,novel middlewar for mobility-en servic,ubiquit provis of internet servic,context-depend internet servic
+492,doc 493,integr,comput,interact,knowledg,network,varieti of network peripher devic,integr independ tool,knowledg worker,pervas comput,electron whiteboard
+493,doc 494,research,implement,manag,inform,comput,great promis for mobil,pervas comput environ,larg scale,directori servic,traffic report
+494,doc 495,model,desir,resourc,organ,complex,mechan,inform,control,comput,design
+495,doc 496,electron commun,learn,program,inform,context-awar chat program,context-awar chat program conchat,contextu inform,conchat,convers,user
+496,doc 497,engin,content,optim,quality-of-service-awar decis engin,appropri adapt decis,challeng,pose,adapt,decis,servic
+497,doc 498,sensor,exchang,softwar,dynam,comput,inform,ad hoc commun support,engag in spontan inform exchang,reconfigur context-sensit middlewar,pervas comput
+498,doc 499,sensor,classifi,experi,measur,angular veloc data,dead-reckon method,user locat,wearabl sensor,acceler,locat recognit
+499,doc 500,organ,interact,avail,resourc,experi,technolog,perform,comput,effici,design

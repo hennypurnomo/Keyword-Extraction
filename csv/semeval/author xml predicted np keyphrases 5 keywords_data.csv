@@ -1,0 +1,101 @@
+,document,keyphrase 1,keyphrase 2,keyphrase 3,keyphrase 4,keyphrase 5
+0,doc 1,uddi,registri,uddi registri,dht,autonom control
+1,doc 2,processor,weight averag effici,resourc select,perform model,weight averag
+2,doc 3,packet,best effort,network,speech qualiti,algorithm
+3,doc 4,content manag,continu media,network,spectrum architectur,continu media content
+4,doc 5,document state,algorithm,oper context,ot algorithm,cot algorithm
+5,doc 6,servic environ,servic,decentr adapt servic,resourc manag,algorithm
+6,doc 7,sensor,exposur,algorithm,deploy,target detect
+7,doc 8,algorithm,confer,virtual conferenc environ,packet,network
+8,doc 9,worm,swarm worm,algorithm,swarm,local
+9,doc 10,protocol modul,servic interfac,event,modul,protocol framework
+10,doc 11,data center,migrat,server migrat,network,tight recoveri point object
+11,doc 12,metric,adapt engin,metric collect,mobil object,onlin metric collect strategi
+12,doc 13,co-alloc,data grid,replica,data transfer,data grid environ
+13,doc 14,sensor node,local error,spotlight devic,spotlight,algorithm
+14,doc 15,alloc polici,blast,adapt multi-polici grid servic,grid,packageblast
+15,doc 16,trial structur,conflex-g,omnirpc,algorithm,conform space search
+16,doc 17,algorithm,high bandwidth data dissemin,bullet,network,bloom filter
+17,doc 18,apocrita,index,file,search,distribut index
+18,doc 19,share work environ for group,millisecond round trip time,typic internet,cooper web cach techniqu,common task
+19,doc 20,context provid,negoti,context inform,provid context,appropri context inform
+20,doc 21,pairwis key,sensor network,pairwis key establish,algorithm,pairwis key establish algorithm
+21,doc 22,encrypt,access control,event type,enforc access control,network
+22,doc 23,peer,parent,congest control,network,deliv qualiti
+23,doc 24,edg index,game,index method,search,index
+24,doc 25,auction,repeat combinatori auction,game,mirag,node hour
+25,doc 26,algorithm,techniqu for determin expans term,queri,user person inform repositori,search
+26,doc 27,contextu factor,domain model,queri,search,term relat
+27,doc 28,re-find,diari studi,email,pim,web
+28,doc 29,passag,novelti detect,adapt filter,rank,semi-automat procedur for acquir rule
+29,doc 30,algorithm,bayesian hierarch model,bayesian hierarch linear model,learn,user m
+30,doc 31,confid,judgment,relev judgment,relev,test collect
+31,doc 32,search result,organ search result,search,search engin,cluster
+32,doc 33,global regular,cluster,algorithm,local,local regular
+33,doc 34,imag,activ learn,algorithm,relev feedback imag retriev,imag retriev
+34,doc 35,snippet,algorithm,search engin,search,snippet gener
+35,doc 36,caption,algorithm,search engin,commerci web search engin,clickthrough
+36,doc 37,search,web,exploratori task,popular destin,trail
+37,doc 38,post list,cach,new algorithm for static cach,algorithm,cach post list
+38,doc 39,prune,search engin,algorithm,prune polici,search
+39,doc 40,topic segment,segment,algorithm,term weight,share topic
+40,doc 41,event,algorithm,aperiod,period event,unsupervis greedi event detect algorithm
+41,doc 42,stori,event,compar time,new event,ned
+42,doc 43,search result,search engin,queri,search,queri classif
+43,doc 44,advanc syntax,advanc search engin user,post-queri brows,search engin,search engin user
+44,doc 45,term feedback,algorithm,relev feedback,queri model,present term
+45,doc 46,rank,algorithm,optim,rocarea,map
+46,doc 47,feedback model,algorithm,feedback,origin queri,languag model
+47,doc 48,relev model,markov random field,latent concept,latent concept expans,model for inform retriev
+48,doc 49,poisson,languag model,multivari bernoulli,exist queri gener languag model,algorithm
+49,doc 50,nugget,definit question answer,definit question,question answer,algorithm
+50,doc 51,abort,handl unsuccess task,abort task,appli for clearanc,plan
+51,doc 52,negoti,meta-level inform,success probabl,negoti chain,pre-negoti phase
+52,doc 53,resourc alloc,algorithm,resourc load,share resourc,resourc load inform
+53,doc 54,commit,acl,semant,acl semant,dynam semant
+54,doc 55,game,condit commit,backward induct,commit,extort
+55,doc 56,commit,tempor linear logic,proof search,mer,protocol action
+56,doc 57,learn,agent,concept learn,ma consist,current hypothesi
+57,doc 58,bee,emot,pheromon,game,intern state
+58,doc 59,distribut function,algorithm,interrupt,fast-pac domain,agent
+59,doc 60,search session,relev document for incom queri,algorithm,rout polici,search
+60,doc 61,inform provis abil,inform provis,acquaint,network,indic for rout queri
+61,doc 62,advertis agent,advertis cycl,auction,bid strategi,advertis
+62,doc 63,agent,satellit swarm,satellit,reactiv decis rule,request
+63,doc 64,global bidder,auction,local bidder,bidder,optim bid strategi
+64,doc 65,game,banzhaf index,network flow game,banzhaf,algorithm
+65,doc 66,market barrier,barrier,network,product,degre distribut
+66,doc 67,cognit load,share mental model,mental model,share belief map,belief map
+67,doc 68,partnership,search,two-sid econom search,agent,central match mechan
+68,doc 69,schedul,event,non-loc option,flexibl time represent,local
+69,doc 70,social network,task alloc,algorithm,network,task alloc problem
+70,doc 71,judgment aggreg,social welfar,social welfar function,judgment aggreg rule,major vote
+71,doc 72,game,adversari,adversari environ,algorithm,bound ration agent
+72,doc 73,organiz structur,institut,transit type,norm,state type
+73,doc 74,norm,conflict,prohibit,agent,virtual organ
+74,doc 75,norm,algorithm,norm structur,norm posit,petri net
+75,doc 76,procur set,double-sid auction,procur,divid function,distribut market
+76,doc 77,unit demand,redistribut,worst-cas optim,nonincreas margin valu,auction
+77,doc 78,algorithm,game,budget optim problem,auction,bid
+78,doc 79,symmetr equilibrium,auction,revenu,rank,click-through rate
+79,doc 80,game,network,epidem,technolog,contagion threshold
+80,doc 81,strong equilibrium,connect game,game,singl sourc gener connect game,fair connect game
+81,doc 82,price,weight threshold function,common knowledg,game,threshold function
+82,doc 83,textual comment,review,hotel,prior expect,algorithm
+83,doc 84,trader t,trader,network,game,subgam perfect nash equilibrium
+84,doc 85,item graph,structur item graph,hypertre decomposit,winner determin problem,hypergraph
+85,doc 86,nash equilibrium,social welfar,game,graphic game,best respons polici
+86,doc 87,auction,price,gai,optim,seller
+87,doc 88,truth mechan,cycl monoton,algorithm,truth,makespan
+88,doc 89,posit auction,game,auction,mediat,tie break rule
+89,doc 90,algorithm,kidney exchang,column gener,kidney,clear problem
+90,doc 91,project game,score rule,game,dynam parimutuel market,trader
+91,doc 92,minimum feedback arc set,feedback arc set,minimum feedback arc,feedback arc,algorithm
+92,doc 93,vertex cover,payment bound,frugal ratio,auction,feasibl set
+93,doc 94,secur,algorithm,game,auction,event
+94,doc 95,contract,algorithm,optim contract,exert effort,network
+95,doc 96,demand function,util function,algorithm,price,fat shatter dimens
+96,doc 97,gener knapsack,auction,single-good multi-unit auction problem,approxim scheme,vcg mechan
+97,doc 98,social planner,social valu,social-choic function,player,game
+98,doc 99,game,leader,pure strategi,mix strategi,algorithm
+99,doc 100,best respons polici,best respons,breakpoint polici,graphic game,game

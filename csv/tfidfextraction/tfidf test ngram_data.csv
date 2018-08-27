@@ -1,0 +1,101 @@
+,document,keyphrase 1,keyphrase 2,keyphrase 3,keyphrase 4,keyphrase 5,keyphrase 6,keyphrase 7,keyphrase 8,keyphrase 9,keyphrase 10,keyphrase 11,keyphrase 12,keyphrase 13,keyphrase 14,keyphrase 15
+0,doc 1,registri,uddi,dht,servic,uddi registri,proxi,proxi registri,queri,hash,grid,key,discoveri,uddi key,publish,node
+1,doc 2,processor,applic,node,adapt,cluster,overload,runtim,resourc,grid,scenario,benchmark,remov,averag effici,iter durat,weight averag effici
+2,doc 3,packet,loss,frame,burst,conceal,voic,flow,speech,sensit,burst loss,end-to-end,decod,mark,state,probabl
+3,doc 4,content,manag,polici,content manag,storag,spectrum,polici manag,store,storag manag,media,refer,spectrum architectur,layer,chunk,file
+4,doc 5,oper,document state,transform,origin oper,document,undo,state,causal,execut,it-transform,invers oper,origin,invers,oper context,context
+5,doc 6,servic,servic environ,resourc,environ,migrat,eda,resourc manag,home environ,home,decentr,manag,fragment,fragment object,node,infrastructur
+6,doc 7,sensor,target,detect,prob,path,fusion,target detect,deploy,exposur,travers,consensu,sensor field,decis fusion,grid,field
+7,doc 8,conferenc,confer,audio,client,mix,stream,floor,internet,voip,video,speaker,floor control,particip,sip,qualiti
+8,doc 9,worm,swarm,infect,password,host,swarm worm,zachik,scan,target,behavior,vulner,slammer,propag,zachik worm,action
+9,doc 10,protocol,modul,protocol modul,servic interfac,stack,interfac,repli,protocol framework,event,servic,event-bas,service-bas,request,framework,notif
+10,doc 11,migrat,data center,server,center,replic,data,storag,server migrat,network,virtual server,outag,wan,virtual,servic,remot
+11,doc 12,metric,mobil,mobil object,object,mobjex,adapt,metric collect,runtim,object framework,mobil object framework,mobil applic,softwar metric,applic,collect,solut
+12,doc 13,co-alloc,data grid,data,server,replica,grid,data transfer,transfer,download,slowest server,wait for the slowest,wait for the slowest server,storag resourc,slowest,scheme
+13,doc 14,sensor,sensor node,node,local,hardwar,spotlight,devic,wireless,wireless sensor,locat,effect rang,local scheme,cost,sensor network,network
+14,doc 15,blast,grid,work unit,alloc,slave,sequenc,align,alloc polici,task alloc,master,unit,packageblast,self schedul,databas,equat
+15,doc 16,worker,trial structur,conflex-g,omnirpc,trial,worker program,conflex,program,rpc,cluster,structur,denni,remot,conform,initi
+16,doc 17,bullet,overlay,tree,node,bandwidth,packet,overlay tree,data,tfrc,ticket,summari ticket,peer,ransub,receiv,tcp
+17,doc 18,document,file,edit,file share,apocrita,user,share,s machin,present apocrita,user s machin,access,organ,author,amend,intranet
+18,doc 19,buddycach,client,collabor,object,cach,server,latenc,collabor applic,access,network,storag,wide-area,share object,access to share,share
+19,doc 20,negoti,context provid,context,provid,qoc,reward,context inform,provid context,proce,reput,ept,util,qoc requir,context manag,offer and reward
+20,doc 21,pairwis key,node,sensor,pairwis,key,sensor network,hypercub,direct pairwis,direct pairwis key,key establish,pairwis key establish,sensor node,establish,predistribut,compromis
+21,doc 22,encrypt,broker,event,subscrib,publish,attribut,event type,publish subscrib,authoris,key,access,access control,event content,encrypt key,attribut encrypt
+22,doc 23,peer,overlay,pro,particip peer,bandwidth,parent,receiver-driven,parent peer,particip,deliv qualiti,peer-to-p,deliv,stream,gossip,avail bandwidth
+23,doc 24,visibl,user,spatial,object,virtual,mmog,spatial index,world,dynam extens,index method,concurr user,index,virtual environ,move,real-tim
+24,doc 25,bid,auction,user,hour,alloc,mirag,resourc,strategyproof,testb,node hour,-hour,window,mote,node,-node
+25,doc 26,queri,desktop,keyword,expans,document,term,person,co-occurr,user,search,sentenc,log,web,compound,relev
+26,doc 27,queri,domain,domain model,model,document,relat,term,dom,use,feedback,context,avgp,avgp recal,user,contextu
+27,doc 28,pim,re-find,re-find inform,evalu,task,pim evalu,inform,person,re-find task,manag and re-find,peopl,person inform,manag,inform manag,person inform manag
+28,doc 29,passag,novelti,queri,user,novelti detect,adapt filter,feedback,list,relev,rank list,rank,queri profil,document,span of text,filter
+29,doc 30,user,recommend,learn,bayesian hierarch,profil,user profil,em algorithm,bayesian,hierarch,bayesian hierarch model,million of user,hierarch model,paramet,model paramet,algorithm
+30,doc 31,document,confid,judgment,relev,expert,rank,relev judgment,estim,probabl,reusabl,evalu,confid estim,topic,judg,calibr
+31,doc 32,cluster,search result,jaguar,search,queri,result,user,label,interest aspect,car,aspect,past queri,search log,log,organ
+32,doc 33,cluster,regular,dataset,document,matrix,clgr,method,global regular,local,data point,local regular,predictor,cluster assign,label,global
+33,doc 34,imag,activ learn,imag retriev,label,experiment design,learn,retriev,relev feedback,activ,cbir,design,svm,loss function,feedback,unlabel
+34,doc 35,snippet,document,cach,search,compress,ram,searcher,snippet gener,file,query-bias,c million,document in ram,c million page,queri,search engin
+35,doc 36,caption,snippet,page,url,search,titl,queri,web,web search,search engin,engin,queri term,user,result,clickthrough
+36,doc 37,trail,queri,destin,search,user,page,suggest,engin,visit,domain,search result,search engin,browser,brows,session trail
+37,doc 38,cach,post list,static cach,queri,post,static,list,answer,dynam cach,cach post,cach post list,memori,cach queri,cach of post,cach of post list
+38,doc 39,prune,queri,index,p-index,document,prune polici,fraction,keyword,answer,document prune,invert,search engin,size,size s,polici
+39,doc 40,segment,document,topic,topic segment,term cluster,align,term,mil,wmil,segment and align,term weight,cluster,multi-docu,wmi,sentenc
+40,doc 41,event,aperiod,featur,period,news,event detect,detect,period event,easter,repres featur,unaudit,aperiod event,word,correl,april
+41,doc 42,stori,ned,news,topic,indexing-tre,cluster,detect,new event,event,compar time,term of differ,term of differ type,name entiti,accuraci,new
+42,doc 43,queri,classif,taxonomi,search,classifi,advertis,search engin,queri classif,engin,search result,use,document,ad,rare queri,queri in set
+43,doc 44,advanc,search,advanc syntax,syntax,user,queri,search engin,advanc search,use advanc,advanc search engin,use of advanc,advanc search engin user,relationship between the use,use of advanc syntax,use
+44,doc 45,feedback,term feedback,queri model,term,queri,relev,document,user,model,retriev,languag model,judg,present term,queri model construct,relev feedback
+45,doc 46,map,svm,rank,document,trec,non-relev,svm map,rocarea,non-relev document,score,optj,submiss,train,function,optim
+46,doc 47,feedback,feedback model,queri,model,document,languag model,languag,top-retriev,top-retriev document,uncertainti,sampl,score,estim,distribut,origin queri
+47,doc 48,expans,queri expans,expans techniqu,queri,mrf,mrf model,model,queri expans techniqu,techniqu,term depend,latent concept,concept expans,latent concept expans,latent,retriev
+48,doc 49,poisson,smooth,model,multinomi,languag model,queri,languag,document,poisson languag,poisson languag model,term,retriev,background model,poisson model,two-stag smooth
+49,doc 50,nugget,answer,interest nugget,definit question,question answer,topic,definit question answer,question,inform nugget,definit,interest,human,foreman,topic nugget,answer nugget
+50,doc 51,abort,plan,failur,task,abort-method,pap,execut,agent,goal,plan claus,claus,program,goal construct,fail,san v
+51,doc 52,negoti,agent,task,pc manufactur,deadlin,manufactur,negoti chain,hardwar,local,negoti deadlin,chain,order,time,meta-level,order hardwar
+52,doc 53,resourc,resourc alloc,alloc,agent,distribut,self-organis,resourc consum,distribut resourc alloc,resourc alloc problem,unreli,distribut resourc,consum,alloc problem,server,techniqu
+53,doc 54,commit,semant,agent,acl,behaviour,compliant,state,transit,action,acl semant,env,expect behaviour,fulfil,expect,pre
+54,doc 55,commit,extort,player,action,game,threat,promis,schell,commit type,condit commit,strateg,situat,tactic,theori,strateg posit
+55,doc 56,commit,cu,cricket,agent,mer,pre-commit,credit,cricket b,protocol,logic,linear logic,interact,formula,bat,tll
+56,doc 57,agent,mas-consist,ma,agent ri,a-consist,learn,updat,inform k,updat mechan,piec of inform,learner,con,mechan,cover,piec of inform k
+57,doc 58,agent,bee,agent s,plan,emot,behavior,plan recognit,predict,state,intent,recognit,action,hidden,hmm,intern state
+58,doc 59,owner,interrupt,agent,estim,distribut function,cost,observ,fast-pac,distribut,user,interrupt cost,environ,ca modul,reli,level
+59,doc 60,qsj,agent,rout,search session,queri,rout polici,neighbor agent,ai qsj,search,session,neighbor,agent ai,polici,learn,directconn
+60,doc 61,inform search,search and share,inform search and share,network,agent,dynam network,search,inform,inform provis,share in large-scal,method for inform,share,propos method,provis,large-scal
+61,doc 62,advertis,advert,bid,advertis agent,display,agent,user,advanc bid,bid agent,bid strategi,public,public display,advertis cycl,auction,advanc
+62,doc 63,satellit,constel,swarm,satellit swarm,commun,agent,plan,mission,intersatellit,request,decis rule,satellit constel,protocol,ground,on-board
+63,doc 64,bidder,auction,global bidder,bid,global,optim bid,local bidder,second-pric,second-pric auction,market,valuat distribut,bid strategi,strategi,concurr,perfect substitut
+64,doc 65,flow,banzhaf,coalit,network flow,banzhaf index,game,index,flow game,network flow game,vertex,edg,power index,network,banzhaf power,power
+65,doc 66,barrier,product,market barrier,agent,market,referr,word-of-mouth,defect,word-of-mouth commun,behaviour,perform,habitu,satisfi agent,satisfact,satisfi
+66,doc 67,team,cognit,load,human,cognit load,hap,agent,mental,mental model,share mental,share,share mental model,smm,teammat,secondari task
+67,doc 68,agent,partnership,search,util,commit,reject,strategi,expect util,i-dm,reserv valu,commit messag,reserv,agent ai,interact,two-sid
+68,doc 69,schedul,agent,execut,qualiti,activ,method,task,stn,constraint,time,taem,mnew,qualiti propag,option,chang
+69,doc 70,task,gdap,resourc,alloc,agent,network,task alloc,social network,social,rsc,task t,upper bound,resourc ratio,upper,resourc type
+70,doc 71,judgment,swf,agenda,judgment aggreg,aggreg,logic,prefer,jar,judgment profil,profil,agent,formula,jal,aggreg rule,judgment set
+71,doc 72,adversari,aag,agent,axiom,action,eval,player,game,aal,adversari environ,black,allianc,connect-four,bel,oppon
+72,doc 73,institut,transit,transit type,norm,state,role,enact,type,axiom,agent,state type,concret,brute,terminolog,rea
+73,doc 74,norm,agent,vo,action,execut state,state,conflict,virtual organ,role,inconsist,norm-regul,variabl,prohibit,first-ord,formula
+74,doc 75,norm,norm scene,scene,cpn,norm structur,norm posit,conflict,prohibit,oblig,norm transit,transit,arc,illocut,agent,utter
+75,doc 76,welfar,mechan,gtr,distribut market,ic and bb,social welfar,budget balanc,double-sid,double-sid auction,social,budget,loss,bb mechan,trade,balanc
+76,doc 77,redistribut,mechan,payment,vcg,redistribut payment,worst-cas,bid,agent,vcg payment,bid vector,redistribut mechan,percentag,total vcg,total vcg payment,individu ration
+77,doc 78,bid,keyword,click,budget,advertis,strategi,queri,landscap,uniform strategi,uniform,costq,budget optim,optim,clicksq,auction
+78,doc 79,bidder,bid,symmetr equilibrium,equilibrium,advertis,revenu,keyword auction,symmetr,auction,keyword,click,click-through,click-through rate,rank,wsv
+79,doc 80,epidem,technolog,payoff,strategi,game,zab,node,contagion,infinit,adopt,compat,region,diffus,best-respons,strategi b
+80,doc 81,player,connect game,strong equilibrium,game,equilibrium,cost,fair connect,fair connect game,strong,connect,sink,graph,edg,fair,sourc
+81,doc 82,market,secur,inform,converg,trader,threshold secur,price,inform market,n round,distribut,threshold,distribut inform,market price,payoff,threshold function
+82,doc 83,review,rate,hotel,featur,user,textual,citi,high,weight,tripadvisor,comment,featur f,textual comment,cleanli,numer rate
+83,doc 84,trader,trader t,buyer,seller,trade,profit,equilibrium,price,qti,bid,dual,ask,buyer and seller,seller and buyer,good
+84,doc 85,item graph,item,hypergraph,structur item,structur item graph,graph,hypertre,pack,combinatori auction,auction,combinatori,determin problem,winner determin problem,winner determin,maxwsp
+85,doc 86,nash,nash equilibrium,equilibrium,nash equilibria,equilibria,game,graphic game,payoff,player,graphic,exact nash,polynomi,algebra,algorithm,underli graph
+86,doc 87,gai,seller,auction,attribut,price,prefer,cdi,sub-configur,phase,multiattribut,mvf,configur,buyer,function,bid
+87,doc 88,truth,machin,truth mechan,mechan,multidimension,schedul,job,domain,cycl monoton,player,monoton,process time,assign,pij,makespan
+88,doc 89,mediat,posit auction,player,auction,posit,bid,vcg,outcom function,vcg outcom function,vcg outcom,implement the vcg,game,ex post,implement the vcg outcom,implement the vcg outcom function
+89,doc 90,cycl,kidney,patient,column,market,exchang,cplex,kidney exchang,column gener,donor,ilp,clear problem,clear,constraint,formul
+90,doc 91,market,project game,dpm,trader,inform market,game,msr,project,trade,strateg,score rule,profit,inform,parimutuel,dynam parimutuel
+91,doc 92,bet,feedback arc,match,arc set,feedback arc set,edg,arc,optim match,minimum feedback,minimum feedback arc,worst-cas profit,minimum feedback arc set,candid,trader,profit
+92,doc 93,ntumin,ntumin c,ntumax,tumax,ntumax c,payment,tumin,payment bound,tumax c,vertex cover,feasibl set,tumin c,vertex,cheapest,frugal
+93,doc 94,secur,market,event,struck,stock,secur market,compound secur,compound,hedg,risk,futur,match problem,trader,state,bid
+94,doc 95,contract,agent,technolog,optim contract,princip,exert,agenc,transit,optim,orbit,non-strateg,non-strateg case,exert effort,princip s,transit point
+95,doc 96,demand,demand function,forecast,function,util,util function,afriat,bundl,price,rationaliz,observ,budget,prefer,afriat s,concav
+96,doc 97,auction,approxim,bid,marginal-decreas,alloc problem,seller,multi-unit,approxim scheme,buyer,vcg,alloc,revers,revers auction,vcg mechan,scheme
+97,doc 98,player,social-choic,action,mechan,function,social-valu,optim,social-choic function,social,multilinear,k-action,strategi,single-cross,social-valu function,social valu
+98,doc 99,player,strategi,leader,commit,game,strategi to commit,play,pure strategi,mix strategi,mix,pure,optim,normal-form,bayesian,follow
+99,doc 100,breakpoint,polici,breakpoint polici,respons polici,best respons polici,best respons,nash,play,graphic game,respons,nash equilibrium,vertex,payoff,game,graphic
