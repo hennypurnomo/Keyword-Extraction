@@ -1,5 +1,5 @@
 
-This project aims to create a generic pipeline for automatically extracting keywords in a given document.
+This project aims to create a generic pipeline for automatically extracting keywords in scientific papers, abstracts and news articles.
 
 There are 4 folders on this project. 
    figure - storing the result of generated figure.
